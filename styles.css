@@ -1,0 +1,12 @@
+ul.img-thumbnails {
+    padding-left: 0px;
+    padding-top: 10px;
+}
+
+.thumbnail>img {
+    width: 60px;
+}
+
+.thumbnail {
+    margin-right: 10px;
+}
